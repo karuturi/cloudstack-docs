@@ -26,7 +26,7 @@
   <title>System Requirements for VXLAN</title>
   <section id="vxlan-table-of-requirement">
     <title>System Requirements for VXLAN</title>
-    <para>In &PRODUCT; 4.X.0, this plugin only supports the KVM hypervisor with the standard linux bridge.</para>
+    <para>In &PRODUCT; 4.3.0, this plugin only supports the KVM hypervisor with the standard linux bridge.</para>
 
     <para>The following table lists the requirements for the hypervisor.</para>
     <table>
@@ -43,7 +43,7 @@
           <row>
             <entry>Hypervisor</entry>
             <entry>KVM</entry>
-            <entry>OvsVifDriver is not supported by this plugin in &PRODUCT; 4.X, use BridgeVifDriver (default).</entry>
+            <entry>OvsVifDriver is not supported by this plugin in &PRODUCT; 4.3.0, use BridgeVifDriver (default).</entry>
           </row>
           <row>
             <entry>Linux kernel</entry>

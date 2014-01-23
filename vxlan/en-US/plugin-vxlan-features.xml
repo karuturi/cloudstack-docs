@@ -24,7 +24,7 @@
     <title>Features of the VXLAN Plugin</title>
 
     <para>
-      In &PRODUCT; release 4.X.0 this plugin supports Advanced Isolated network mode.
+      In &PRODUCT; release 4.3.0 this plugin supports Advanced Isolated network mode.
       This plugin enables more than 4096 isolated guest networks in a Zone, with almost the same usability as VLAN isolation.
     </para>
 
